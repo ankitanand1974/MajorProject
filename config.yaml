@@ -1,8 +1,7 @@
-path: C:\Users\Ankit Anand\Desktop\New folder\train_data
+path: C:\Users\athir\Desktop\MajorProject\train_data
 train: images/train
 val: images/train
 
 #classes
 names:
   0: cars
-  1: bikes
